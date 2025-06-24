@@ -1,4 +1,7 @@
-package ticTacToe;
+
+//Still need to implement a method for checking if there's an empty
+//button.getText() left in the two dimensional array. Because as of
+//right now, if it's a tie there's no way to restart the game.
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
